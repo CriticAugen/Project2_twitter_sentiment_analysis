@@ -1,0 +1,9 @@
+data1 was taken from : https://www.cs.cornell.edu/people/pabo/movie-review-data/
+	its a movie review with texts, we have to process our own
+
+data2 was taken from : https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences
+	its a labelled data. 83 Kb, but we will process it our own as per requirement
+
+data3 was taken from : http://www.cs.jhu.edu/~mdredze/datasets/sentiment/
+	its the unprocessed data of various things. 1.5 Gb, we will have to process it our own
+
